@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achmad Gunar Saadi</h1>
 <h3 align="center">A passionate data science enthusiast</h3>
 
-<img align="right" alt="coding-at-the-weekend" width="300" src="coding-image.png"/>
+<img align="right" alt="coding-at-the-weekend" width="300" src="happy-coding-image.png"/>
 
 - 🔭 I’m currently working on **Data Science and Analytics Projects**
 
