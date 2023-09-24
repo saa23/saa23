@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science and Analytics Projects**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Advanced NLP**
 
 - 📫 How to reach me **achmadgunarsaadi@gmail.com**
 
