@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=2CB600&lines=Hello+World!+%F0%9F%91%8B;+I%27m+Achmad+Gunar+Saadi;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=2CB600&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Achmad+Gunar+Saadi;Nice+to+meet+you+◝(ᵔᵕᵔ)◜" />
 </h1>
 <h2 align="center">A passionate data science enthusiast</h2>
 <div>
@@ -137,6 +137,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saa23&show_icons=true&locale=en&layout=compact" alt="saa23" /></p> -->
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saa23&show_icons=true&locale=en" alt="saa23" /></p>-->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saa23&show_icons=true&locale=en" alt="saa23" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saa23&" alt="saa23" /></p> -->
