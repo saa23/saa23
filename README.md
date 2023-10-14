@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=2CB600&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Achmad+Gunar+Saadi;Nice+to+meet+you+◝(ᵔᵕᵔ)◜" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=2CB600&lines=Hi+There!+👋;+I%27m+Achmad+Gunar+Saadi;Nice+to+meet+you+🤗" />
 </h1>
 <h2 align="center">A passionate data science enthusiast</h2>
 <div>
