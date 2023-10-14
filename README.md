@@ -23,8 +23,6 @@
 <a href="https://linkedin.com/in/achmad gunar saadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achmad gunar saadi" height="30" width="40" /></a>
 </p>
 <br/>
-<br/>
-<hr>
 <h2 align="center">Languages -  Frameworks - Tools</h2>
 <h3 align="left">Programming Language</h3>
 <p align="left"> 
@@ -140,3 +138,8 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saa23&show_icons=true&locale=en" alt="saa23" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saa23&" alt="saa23" /></p> -->
+
+<div align="center">
+<h2>My Github Contributions</h2>
+<img alt="snake eating my contributions" src="https://github.com/saa23/saa23/blob/output/github-contribution-grid-snake.svg" />
+</div>
