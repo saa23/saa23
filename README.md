@@ -1,8 +1,11 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=2CB600&lines=Hi+There!+👋;+I%27m+Achmad+Gunar+Saadi;Nice+to+meet+you+🤗" />
-</h1>
-<h2 align="center">A passionate data science enthusiast</h2>
-<div>
+<div align="center">
+    <h1>Hi There! 👋 I'm Achmad Gunar Saadi</h1>
+</div>
+<div align="center">
+    <h3>I am a </h3>
+        <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=false&width=500&height=50&duration=4500&color=2CB600&lines=Data+Analyst;Data+Scientist;Machine+Learning+Specialist;Web+Design+Enthusiast;Book+Reader+:)" /> 
+       </div>
+<br>
 <div align="rigth">
 <img align="right" alt="coding-at-the-weekend" width="300" src="./happy-coding-image.png/"/>
 </div>
