@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <h3>I am a </h3>
-        <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=false&width=500&height=50&duration=4500&color=2CB600&lines=Data+Analyst;Data+Scientist;Python+Specialist;Machine+Learning+Specialist;Web+Design+Enthusiast;Book+Reader+:)" /> 
+        <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=false&width=500&height=50&duration=4500&color=2CB600&lines=Data+Analyst;Data+Scientist;Python+Specialist;Machine+Learning+Specialist;UX+Design+Enthusiast;Book+Reader+:)" /> 
        </div>
 <br>
 <div align="rigth">
