@@ -120,7 +120,7 @@
 <h3 align="left">Design</h3>
 <p align="left"> 
 <a href="https://www.coreldraw.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CorelDraw_logo.svg/150px-CorelDraw_logo.svg.png" alt="coreldraw" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/6/6f/Photoshop_2020.svg/revision/latest?cb=20200617010346" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a>
 </p> 
 
