@@ -19,7 +19,7 @@
 
 💬 Ask me anything about **Python, Data Analysis, Machine Learning, and NLP**
 
-🛠️ Here is [my portfolio](https://www.datascienceportfol.io/achmadgunarsaadi), let's collaborate! :)
+🛠️ Here is [**my portfolio**](https://www.datascienceportfol.io/achmadgunarsaadi), let's collaborate! :)
 
 </div>
 </div>
