@@ -13,11 +13,11 @@
 
 🔭 I’m currently working on **Data Science and Analytics Projects**
 
-🌱 I’m currently learning **Advanced NLP and MLOps**
+🌱 I’m currently learning **LLM and Advanced Implementation of Snowflake**
 
 📫 How to reach me **achmadgunarsaadi@gmail.com**
 
-💬 Ask me anything about **Python, Data Analysis, Machine Learning, and NLP**
+💬 Ask me anything about **Python, Data Analysis, and Machine Learning**
 
 🛠️ Here is [**my portfolio**](https://www.datascienceportfol.io/achmadgunarsaadi), let's collaborate! :)
 
@@ -55,8 +55,12 @@
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface-logo" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="streamlit" height="40"/> </a>
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/logo.svg" alt="mlflow" height="40"/> </a>
+    
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="" alt="snowflake" height="40"/> </a>
+
 <!-- <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> <img src="https://radimrehurek.com/gensim/_static/images/gensim.png" alt="gensim" height="40"/> </a> -->
 <!-- <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/business7/uploads/plot/original/3X/3/7/3779c05f16b7ba7afc0872d601ce6c2158cc6d56.png" alt="plotly" width="40" height="40"/> </a> -->
+<!-- RedShift -->
 <!-- PREFECT -->
 <!-- WEIGHT  AND BIASES (WANDB) -->
 </p> 
@@ -74,7 +78,6 @@
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
 <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"> <img src="https://d7umqicpi7263.cloudfront.net/img/product/83e3ab8e-540e-4391-b603-f65174ac0275/ea15d6da-1c4f-409f-8c24-4bbcfbb0d309.png" alt="influxdb" height="40"/></a>
 <a href="https://opensearch.org/" target="_blank" rel="noreferrer"> <img src="https://www.opensearch.org/assets/brand/SVG/Mark/opensearch_mark_default.svg" alt="opensearch" height="40"/></a>
-<!-- RedShift -->
 </p> 
 
 <h3 align="left">Web Development</h3>
