@@ -56,11 +56,12 @@
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="streamlit" height="40"/> </a>
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/logo.svg" alt="mlflow" height="40"/> </a>
     
-<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="" alt="snowflake" height="40"/> </a>
+
 
 <!-- <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> <img src="https://radimrehurek.com/gensim/_static/images/gensim.png" alt="gensim" height="40"/> </a> -->
 <!-- <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/business7/uploads/plot/original/3X/3/7/3779c05f16b7ba7afc0872d601ce6c2158cc6d56.png" alt="plotly" width="40" height="40"/> </a> -->
 <!-- RedShift -->
+<!-- Snowflake -->
 <!-- PREFECT -->
 <!-- WEIGHT  AND BIASES (WANDB) -->
 </p> 
