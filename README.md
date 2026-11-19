@@ -13,7 +13,7 @@
 
 🔭 I’m currently working on **Data Science and Analytics Projects**
 
-🌱 I’m currently learning **LLM and Advanced Implementation of Snowflake**
+🌱 I’m currently learning **Financial Engineering**
 
 📫 How to reach me **achmadgunarsaadi@gmail.com**
 
