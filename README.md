@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/skillsets-section-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/skillsets-section-light.png">
-    <img src="assets/skillsets-light.png" width="472"
+    <img src="assets/skillsets-light.png" width="800"
          alt="Languages: Python, R, JavaScript, TypeScript. Analytics & BI: Tableau, Power BI, Metabase, Redash, Holistics, Grafana, Streamlit. Machine Learning & AI: scikit-learn, Keras, TensorFlow, PyTorch, Hugging Face, spaCy, NLTK, OpenCV. Databases & Warehouses: PostgreSQL, MySQL, SQL Server, MariaDB, CockroachDB, MongoDB, Redis, Elasticsearch, OpenSearch, InfluxDB, Snowflake, Amazon Redshift. Web, APIs & Automation: Flask, FastAPI, Django, React, Bootstrap, Tailwind, Postman, Selenium, Playwright, Scrapy, BeautifulSoup, PyTest, Figma. Cloud, MLOps & DevOps: AWS, GCP, Docker, Airflow, MLflow, Git.">
   </picture>
 </p>
