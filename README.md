@@ -28,13 +28,13 @@
 <a href="https://linkedin.com/in/achmad gunar saadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achmad gunar saadi" height="30" width="40" /></a>
 </p>
 <br/>
-<h2 align="center">Tools & Technologies</h2>
 
+<h2 align="center">Tools & Technologies</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/skillsets-section-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/skillsets-section-light.png">
-    <img src="assets/skillsets-light.png" width="100%"
+    <img src="assets/skillsets-light.png" width="472"
          alt="Languages: Python, R, JavaScript, TypeScript. Analytics & BI: Tableau, Power BI, Metabase, Redash, Holistics, Grafana, Streamlit. Machine Learning & AI: scikit-learn, Keras, TensorFlow, PyTorch, Hugging Face, spaCy, NLTK, OpenCV. Databases & Warehouses: PostgreSQL, MySQL, SQL Server, MariaDB, CockroachDB, MongoDB, Redis, Elasticsearch, OpenSearch, InfluxDB, Snowflake, Amazon Redshift. Web, APIs & Automation: Flask, FastAPI, Django, React, Bootstrap, Tailwind, Postman, Selenium, Playwright, Scrapy, BeautifulSoup, PyTest, Figma. Cloud, MLOps & DevOps: AWS, GCP, Docker, Airflow, MLflow, Git.">
   </picture>
 </p>
